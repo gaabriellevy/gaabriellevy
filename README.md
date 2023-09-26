@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Levy 😉
 - 🔭 Trabalhando com Desenvolvimento Web PHP
-- 💻 Sistemas de Informação [3/8]
-- 🌱 Estudando Laravel & Wordpress
+- 💻 Sistemas de Informação [4/8]
+- 🌱 Estudando Laravel e Java
 
 ## Tecnologias 💪
 <div style="display:inline_block">
