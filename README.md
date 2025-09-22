@@ -17,6 +17,6 @@
     <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:levygabriel11@gmail.com">
-      <img align="center" alt="Java" height="30" width="40" src="https://github.com/user-attachments/assets/6382feb9-bebc-4b19-8d7f-0315a81cc54c" />
+      <img align="center" alt="Java" height="30" src="https://github.com/user-attachments/assets/6382feb9-bebc-4b19-8d7f-0315a81cc54c" />
   </a>
 </div>
